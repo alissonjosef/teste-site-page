@@ -15,3 +15,12 @@ export default class App extends React.Component {
     );
   }
 }
+
+
+/* function App() {
+  return (
+ <h1>Alisson Silva</h1>
+  );
+}
+
+export default App; */
